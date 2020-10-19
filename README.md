@@ -9,19 +9,19 @@ Temos abaixo a tela inicial do sistema: <br/><br/>
 <img src="src/image/home.png" width="80%"/><br/><br/>
 
 Após clicar no botão "Entrar", o usuário é direcionado para a tela de login: <br/><br/>
-<img src="src/image/tela_login.png" width="80%"/><br/><br/>
+<img src="src/image/tela_login.png" width="60%"/><br/><br/>
 Para teste, acesse o usuário a seguir: <br/><br/>
 Email: rodrigo@gmail.com <br/>
 Senha: abc123 <br/><br/>
 
 Ao acessar a opção "Criar Conta", o usuário deverá criar seu acesso pela tela a seguir:<br/><br/>
-<img src="src/image/criarUser.png" width="80%"/><br/><br/>
+<img src="src/image/criarUser.png" width="60%"/><br/><br/>
 
 O campo para comentar só fica disponível após fazer login: <br/><br/>
 <img src="src/image/comentar.png" width="80%"/> <br/><br/>
 
 Um botão para excluir o comentário ficará disponível somente no comentário feito pelo respectivo usuário que comentou. No exemplo abaixo, o Rodrigo está logado e somente em seu comentário está disponível o botão para excluir. <br/><br/>
-<img src="src/image/excluir.png" width="80%"/> <br/><br/>
+<img src="src/image/excluir.png" width="60%"/> <br/><br/>
 
 Segue a versão responsiva da aplicação:<br/><br/>
 <img src="src/image/responsivo.png" width="40%"/><br/><br/>
