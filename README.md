@@ -1,68 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é um sistema de comentários que pode servir de widget para aplicações diversas. Tem como principais tecnologias ReactJs com hooks e NodeJs. <br/>
+Este projeto tem como destaque a utilização do hook useContext para compartilhamento de dados de login do usuário entre os componentes. <br/>
+Dessa forma é possível que cada comentário tenha a identificação de cada usuário.<br/> 
+O Firebase foi utilizado como backend da aplicação, auxiliando com o sistema de login e armazenamento de comentários. <br/>
 
-## Available Scripts
+O projeto pode ser acessado pelo link a seguir: https://comentakiprojeto.web.app/.<br/>
+Para acesso no modo de desenvolvimento, execute npm start no diretório raiz do projeto.<br/>
+Temos abaixo a tela inicial do sistema: <br/><br/>
+<img src="src/image/home.png" width="80%"/><br/><br/>
 
-In the project directory, you can run:
+Após clicar no botão "Entrar", o usuário é direcionado para a tela de login: <br/><br/>
+<img src="src/image/tela_login.png" width="80%"/><br/><br/>
 
-### `yarn start`
+Ao acessar a opção "Criar Conta", o usuário deverá criar seu acesso pela tela a seguir:<br/><br/>
+<img src="src/image/criarUser.png" width="80%"/><br/><br/>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O campo para comentar só fica disponível após fazer login: <br/><br/>
+<img src="src/image/comentar.png" width="80%"/> <br/><br/>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Um botão para excluir o comentário ficará disponível somente no comentário feito pelo respectivo usuário que comentou. No exemplo abaixo, o Rodrigo está logado e somente em seu comentário está disponível o botão para excluir. <br/><br/>
+<img src="src/image/excluir.png" width="80%"/> <br/><br/>
 
-### `yarn test`
+Segue a versão responsiva da aplicação:<br/><br/>
+<img src="src/image/responsivo.png" width="40%"/><br/><br/>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
