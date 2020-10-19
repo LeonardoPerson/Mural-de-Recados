@@ -10,6 +10,9 @@ Temos abaixo a tela inicial do sistema: <br/><br/>
 
 Após clicar no botão "Entrar", o usuário é direcionado para a tela de login: <br/><br/>
 <img src="src/image/tela_login.png" width="80%"/><br/><br/>
+Para teste, acesse o usuário a seguir: <br/><br/>
+Email: rodrigo@gmail.com <br/><br/>
+Senha: abc123 <br/><br/>
 
 Ao acessar a opção "Criar Conta", o usuário deverá criar seu acesso pela tela a seguir:<br/><br/>
 <img src="src/image/criarUser.png" width="80%"/><br/><br/>
