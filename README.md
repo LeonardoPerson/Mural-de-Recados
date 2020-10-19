@@ -24,5 +24,5 @@ Um botão para excluir o comentário ficará disponível somente no comentário 
 <img src="src/image/excluir.png" width="50%"/> <br/><br/>
 
 Segue a versão responsiva da aplicação:<br/><br/>
-<img src="src/image/responsivo.png" width="40%"/><br/><br/>
+<img src="src/image/responsivo.png" width="30%"/><br/><br/>
 
