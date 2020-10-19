@@ -15,14 +15,14 @@ Email: rodrigo@gmail.com <br/>
 Senha: abc123 <br/><br/>
 
 Ao acessar a opção "Criar Conta", o usuário deverá criar seu acesso pela tela a seguir:<br/><br/>
-<img src="src/image/criarUser.png" width="60%"/><br/><br/>
+<img src="src/image/criarUser.png" width="40%"/><br/><br/>
 
 O campo para comentar só fica disponível após fazer login: <br/><br/>
 <img src="src/image/comentar.png" width="80%"/> <br/><br/>
 
 Um botão para excluir o comentário ficará disponível somente no comentário feito pelo respectivo usuário que comentou. No exemplo abaixo, o Rodrigo está logado e somente em seu comentário está disponível o botão para excluir. <br/><br/>
-<img src="src/image/excluir.png" width="60%"/> <br/><br/>
+<img src="src/image/excluir.png" width="40%"/> <br/><br/>
 
 Segue a versão responsiva da aplicação:<br/><br/>
-<img src="src/image/responsivo.png" width="40%"/><br/><br/>
+<img src="src/image/responsivo.png" width="20%"/><br/><br/>
 
