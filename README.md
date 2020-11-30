@@ -3,7 +3,6 @@ Este projeto tem como destaque a utilização do hook useContext para compartilh
 Dessa forma é possível que cada comentário tenha a identificação de cada usuário.<br/> 
 O Firebase foi utilizado como backend da aplicação, auxiliando com o sistema de login e armazenamento de comentários. <br/>
 
-O projeto pode ser acessado pelo link a seguir: https://mural-recados-advanced.web.app/ <br/>
 Para acesso no modo de desenvolvimento, execute npm start no diretório raiz do projeto.<br/>
 Temos abaixo a tela inicial do sistema: <br/><br/>
 <img src="src/image/home.png" width="80%"/><br/><br/>
